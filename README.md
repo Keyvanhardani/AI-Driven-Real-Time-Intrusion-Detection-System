@@ -2,6 +2,8 @@
 
 SecIDS ist ein leistungsfähiges, KI-gestütztes Echtzeit-IDS (Intrusion Detection System), das darauf ausgelegt ist, Netzwerkpakete zu analysieren, bösartige Aktivitäten zu erkennen und proaktive Schutzmaßnahmen zu ergreifen. Dieses System kombiniert maschinelles Lernen, insbesondere ein eigens entwickeltes CNN-Modell, mit modernen Analysetechniken, um eine robuste Sicherheitslösung für Netzwerke zu bieten.
 
+![Screenshot of SecIDS](https://github.com/Keyvanhardani/AI-Driven-Real-Time-Intrusion-Detection-System/blob/main/Screenshot.png?raw=true)
+
 ## Funktionen und Merkmale
 
 ### 1. **Real-Time Netzwerkpaket-Überwachung**
@@ -47,6 +49,7 @@ SecIDS ist ein leistungsfähiges, KI-gestütztes Echtzeit-IDS (Intrusion Detecti
 - **Scapy**: Netzwerkpaket-Analyse
 - **Hugging Face Model Hub**: Bereitstellung und Aktualisierung des CNN-Modells
 - **Chart.js und Bootstrap**: Benutzeroberfläche für das Web-Dashboard
+
 
 ## Einrichtung und Installation
 
