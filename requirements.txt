@@ -1,0 +1,15 @@
+Flask
+tensorflow
+numpy
+psutil
+sqlite3
+ollama_lib
+scapy
+requests
+ipaddress
+re
+GPUtil
+huggingface_hub
+transformers
+Celery
+redis
