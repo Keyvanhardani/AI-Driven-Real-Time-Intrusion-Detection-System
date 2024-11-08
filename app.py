@@ -38,7 +38,7 @@ MODEL_ID = "Keyven/SecIDS-CNN"
 FILENAME = "SecIDS-CNN.h5"
 
 # Ersetzen Sie 'your_token_here' durch Ihren tatsächlichen Token
-HF_TOKEN = "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"
+HF_TOKEN = "hf_XXX"
 
 # Überprüfen, ob das Modell bereits lokal vorhanden ist
 if not os.path.exists(MODEL_PATH):
