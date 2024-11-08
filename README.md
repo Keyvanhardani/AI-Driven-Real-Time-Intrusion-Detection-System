@@ -61,7 +61,7 @@ SecIDS ist ein leistungsfähiges, KI-gestütztes Echtzeit-IDS (Intrusion Detecti
 ### 2. **Installation**:
 ```bash
 # Klone das Repository
-git clone [https://github.com/Keyvanhardani/AI-Driven-Real-Time-Intrusion-Detection-System.git](https://github.com/Keyvanhardani/AI-Driven-Real-Time-Intrusion-Detection-System.git)
+git clone https://github.com/Keyvanhardani/AI-Driven-Real-Time-Intrusion-Detection-System.git
 cd SecIDS-CNN
 
 # Installiere die Abhängigkeiten
