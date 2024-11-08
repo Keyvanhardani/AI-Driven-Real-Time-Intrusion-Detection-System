@@ -1,4 +1,4 @@
-# AI-Driven Real-Time Intrusion Detection System (SecIDS) - V1.0.1
+# AI-Driven Real-Time Intrusion Detection System (SecIDS)
 
 SecIDS ist ein leistungsfähiges, KI-gestütztes Echtzeit-IDS (Intrusion Detection System), das darauf ausgelegt ist, Netzwerkpakete zu analysieren, bösartige Aktivitäten zu erkennen und proaktive Schutzmaßnahmen zu ergreifen. Dieses System kombiniert maschinelles Lernen, insbesondere ein eigens entwickeltes CNN-Modell, mit modernen Analysetechniken, um eine robuste Sicherheitslösung für Netzwerke zu bieten.
 
@@ -66,3 +66,5 @@ cd AI-Driven-Real-Time-Intrusion-Detection-System
 
 # Installiere die Abhängigkeiten
 pip install -r requirements.txt
+
+Changelog:: V1.0.1
